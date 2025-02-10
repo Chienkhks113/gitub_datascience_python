@@ -1,0 +1,48 @@
+https://www.nltk.org/ 
+Note: Cái wed trên dùng để xử lý ngôn ngữ tự nhiên nó sẽ phân biệt ra đầy đủ cho ta 
+
+*stemming , lematization
+https://www.nltk.org/api/nltk.stem.wordnet.html
+
+https://textblob.readthedocs.io/en/dev/
+
+
+https://spacy.io/
+
+
+#  Riêng Tiếng Việt ta sẽ sử dụng từ này
+https://github.com/undertheseanlp/underthesea/tree/main
+
+# Youtube thư viện underthesea để giúp tách từ phân loại
+https://www.youtube.com/watch?v=x_jn9eEld70
+
+# xử lý ngôn ngữ
+
+https://regexr.com/
+
+# Thư viện kiểm tra xem nó có dữ liệu bị thiếu không
+
+data.isna().sum()
+
+# Thư viện scikit-learn
+https://scikit-learn.org/1.5/modules/generated/sklearn.compose.ColumnTransformer.html
+
+
+# Kĩ thuật Giới thiệu về k-fold cross-validation
+https://trituenhantao.io/kien-thuc/gioi-thieu-ve-k-fold-cross-validation/
+
+
+
+# Kĩ thuật k-fold
+https://miai.vn/
+
+
+#Nguồn data cho nó
+https://data.world/
+
+#Điền vào giá trị bị khuyết
+https://scikit-learn.org/1.5/modules/generated/sklearn.impute.SimpleImputer.html
+
+# ColumnTransformer cái nào sẽ được xử lý bằng cái nào sẽ áp dụng lên cột nào , hay để ghép nó lại
+
+https://scikit-learn.org/1.5/modules/generated/sklearn.compose.ColumnTransformer.html

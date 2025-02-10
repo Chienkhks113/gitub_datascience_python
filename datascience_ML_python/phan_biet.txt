@@ -1,0 +1,4 @@
+nominal : có không phân biệt thứ hạng , thứ bậc lên khác với ordinal nhé chú ý nhé
+
+Nếu ordinal : thì phải giả định sắp xếp nó xem sao
+hầu đa cứ 2 giá trị là boolean
